@@ -19,11 +19,13 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 - [Como desenvolver](#Como-desenvolver)
   - [API](#API)
   - [Requisições](#Requisições)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
+- [Requisitos](#Requisitos)
+  - [1 - Renderize a página inicial](#1-Renderize-a-página-inicial)
+  - [2 - Renderize a página de cadastro de usuários](#2-Renderize-a-página-de-cadastro-de-usuários)
+  - [3 Renderize a pagína de detalhes de cada usuário](#3-Renderize-a-pagína-de-detalhes-de-cada-usuário)
+  - [4 Crie os cartões de usuários da página principal](#4-Crie-os-cartões-de-usuários-da-página-principal)
+- [Requisito Bônus](#Requisito-Bônus)
+  - [5 Crie testes para todas as telas e componentes do projeto](#5-Crie-testes-para-todas-as-telas-e-componentes-do-projeto)
 
 # Habilidades
 
@@ -186,7 +188,7 @@ Esse projeto já possui funções implementadas para fazer as requisições para
 
 # Requisitos
 
-## 1 - Renderize a página inicial
+## 1 Renderize a página inicial
 
 A página inicial deverá ter:
 
@@ -198,7 +200,7 @@ A página inicial deverá ter:
 - Uma parte principal com:
   - Um lista com os usuários
 
-## 2 - Renderize a página de cadastro de usuários
+## 2 Renderize a página de cadastro de usuários
 
 A pagina de cadastro deve ter:
 
@@ -256,3 +258,5 @@ Os cartões dos usuários na página principal devem ter somente as seguinte inf
 ## 5 Crie testes para todas as telas e componentes do projeto
 
 Esse repositório não possui testes implementados para testar a aplicação, fique a vontade para implementar seus testes e assim praticar também os conhecimentos de RTL, vistos durante o bloco 15;
+
+Template do projeto desenvolvido por [Iago de Paula Ferreira](https://github.com/IagoPFerreira)
