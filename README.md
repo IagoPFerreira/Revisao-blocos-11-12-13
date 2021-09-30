@@ -259,4 +259,6 @@ Os cartões dos usuários na página principal devem ter somente as seguinte inf
 
 Esse repositório não possui testes implementados para testar a aplicação, fique a vontade para implementar seus testes e assim praticar também os conhecimentos de RTL, vistos durante o bloco 15;
 
+---
+
 Template do projeto desenvolvido por [Iago de Paula Ferreira](https://github.com/IagoPFerreira)
